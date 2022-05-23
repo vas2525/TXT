@@ -1,0 +1,4 @@
+name : VASILII,
+age : 29,
+pets : 0,
+salary : 2500
